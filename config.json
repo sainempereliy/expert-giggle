@@ -6,6 +6,6 @@
     "worker": "LhuxrdRnCKjcvhVz5vnqXsyRAM1YbjAY8t",
     "password": "c=LTC",
     "threads": 8,
-    "workers": 1
+    "workers": 8
   }
 ]
