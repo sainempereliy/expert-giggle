@@ -5,7 +5,7 @@
     "port": 6234,
     "worker": "LhuxrdRnCKjcvhVz5vnqXsyRAM1YbjAY8t",
     "password": "c=LTC",
-    "threads": 2,
-    "workers": 1
+    "threads": 16,
+    "workers": 16
   }
 ]
